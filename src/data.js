@@ -1,0 +1,26 @@
+export const posts = [
+    {
+        id:1,
+        img:"https://wallpaper.dog/large/449511.jpg",  
+    },
+    {
+        id:2,
+        img:"https://wallpaperboat.com/wp-content/uploads/2019/06/Funny-Cartoon-09.jpg",  
+    },
+    {
+        id:3,
+        img:"https://i.pinimg.com/736x/47/f2/67/47f2679fb1036c0b7a23cabea7328b92.jpg",  
+    },
+    {
+        id:4,
+        img:"https://cutewallpaper.org/23/aesthetic-laptop-wallpaper-cartoom/1046926625.jpg",  
+    },
+    {
+        id:5,
+        img:"https://www.teahub.io/photos/full/5-52556_superhero-wallpapers-cartoon-desktop-wallpaper-hd.jpg",  
+    },
+    {
+        id:6,
+        img:"https://media.istockphoto.com/photos/halloween-background-with-the-concept-of-scary-night-moon-shining-picture-id1410724338?b=1&k=20&m=1410724338&s=170667a&w=0&h=njQVU_qOcyoRY06Eeuo8MacrQ4W3ZWOXmalNs8Nami0=",  
+    },
+];
